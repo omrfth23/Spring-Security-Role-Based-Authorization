@@ -5,8 +5,8 @@ This project is an example of using Spring Security to implement role-based acce
 ## Roles and Access Control
 
 - **Employee:** Can only access GET methods.
-- **Admin:** Can access PUT and POST methods, cannot access DELETE method.
-- **Manager:** Can access GET and DELETE methods, cannot access PUT and POST methods.
+- **Manager:** Can access PUT and POST methods, cannot access DELETE method.
+- **Admin:** Can access GET and DELETE methods, cannot access PUT and POST methods.
 
 ## Project Usage
 
