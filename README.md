@@ -15,11 +15,13 @@ When the project is running, different users with different roles can access dif
 - **Employee:**
   - GET /api/employee
 
-- **Admin:**
+- **Manager:**
   - GET /api/employee
   - PUT /api/employee
   - POST /api/employee
 
-- **Manager:**
+- **Admin:**
   - GET /api/employee
+  - PUT /api/employee
+  - POST /api/employee
   - DELETE /api/employee
